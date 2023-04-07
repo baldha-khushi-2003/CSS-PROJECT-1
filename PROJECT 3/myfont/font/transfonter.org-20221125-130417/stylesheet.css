@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Rubik Marker Hatch';
+    src: url('RubikMarkerHatch-Regular.woff2') format('woff2'),
+        url('RubikMarkerHatch-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
